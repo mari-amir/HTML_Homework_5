@@ -18,7 +18,7 @@ body {
     width: 1345px;
     margin: 0 auto;
     background-size: cover;
-    font-family: "Helvetica Neue", "Times New Roman", sans-serif;
+    font-family: "Helvetica Neue", Tahoma, sans-serif;
 }
 .clearfix:after {
     content: "";
